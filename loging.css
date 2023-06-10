@@ -23,7 +23,7 @@ body{
     border-radius: .3rem;
     position: absolute;
     top: 5.4rem;
-    left: 32rem;
+    left: 26rem;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     padding: 2rem 1rem;
   
@@ -87,8 +87,8 @@ body{
     text-align: center;
     padding: 1rem .7rem;
     position: absolute;
-    left: 10.6rem;
-    top: 23rem;
+    left: 4.8rem;
+    top: 21.4rem;
     transition: all 2s ease;
 }
 .log button
@@ -105,9 +105,14 @@ body{
    color: white;
    transition: all 2s ease;
 }
-.log , button:hover
+.log:hover
 {
     background: #f44336;
     transition: all 2s ease;
+   
+}
+button:hover{
     color:rgb(9, 1, 51);
+    transition: all 2s ease;
+   
 }
