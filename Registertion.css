@@ -52,3 +52,11 @@ body
     background: rgb(212, 210, 210);
     border-radius: .4rem;
 }
+.InputGourp select{
+    width: 20rem;
+    height: 2rem;
+    padding: .3rem .4rem;
+    border: none;
+    background: rgb(212, 210, 210);
+    border-radius: .4rem
+}
