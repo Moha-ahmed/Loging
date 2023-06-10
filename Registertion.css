@@ -17,3 +17,38 @@ body
     justify-content: center;
     position: relative;
 }
+.container
+{
+    width: 50%;
+    height: 80vh;
+    background: transparent;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    justify-content: center;
+    margin:  0 auto;
+    margin-top: 5rem;
+    text-align: center;
+    padding: 2.5rem 1rem ;
+    border-radius: 1.2rem;
+}
+.InputGourp
+{
+    margin: 1rem;
+}
+.InputGourp label
+{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-style: normal;
+    color: black;
+}
+
+.InputGourp input
+{
+    width: 20rem;
+    height: 2rem;
+    padding: .3rem .4rem;
+    border: none;
+    background: rgb(212, 210, 210);
+    border-radius: .4rem;
+}
